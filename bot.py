@@ -496,7 +496,7 @@ async def single_cc_check(event):
 <blockquote>{status_emoji} Status: {status_text}</blockquote>
 <blockquote>💳 Card: <code>{result['card']}</code></blockquote>
 <blockquote>📝 Response: {result['message'][:150]}</blockquote>
-<blockquote>🌐 𝐆𝐚𝐭𝐞𝐰𝐚𝐲: 🔥 {result.get('gateway', 'Unknown')} | 💰 {result.get('price', '-')}</blockquote>
+<blockquote>🌐 𝐆𝐚𝐭𝐞𝐰𝐚𝐲: 🔥 {result.get('gateway', 'Sopiii')} | 💰 {result.get('price', '-')}</blockquote>
 <b>━━━━━━━━━━━━━━━━━</b>
 <b>🎯💠 𝐁𝐈𝐍 𝐈𝐧𝐟𝐨</b>
 <pre>𝗕𝗜𝗡 𝗜𝗻𝗳𝗼: {brand} - {bin_type} - {level}
