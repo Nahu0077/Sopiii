@@ -85,7 +85,7 @@ def premium_emoji(text):
 # Bot Configuration
 API_ID = 21124241
 API_HASH = 'b7ddce3d3683f54be788fddae73fa468'
-BOT_TOKEN = '8078746989:***'
+BOT_TOKEN = '8078746989:AAFGP-Kt3tr4cDSmXdumg7uaq2kV7YTccRM'
 
 # Admin/Owner IDs (Telegram user IDs)
 ADMIN_IDS = [7603003996]  # Add more admin IDs here
