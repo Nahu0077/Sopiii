@@ -11,7 +11,7 @@ from datetime import datetime
 from urllib.parse import quote
 
 # ========== CONFIG ==========
-CHECKER_API_URL = 'http://172.18.0.185:808'
+CHECKER_API_URL = 'http://127.0.0.1:8081'
 API_ID = 21124241
 API_HASH = 'b7ddce3d3683f54be788fddae73fa468'
 BOT_TOKEN = '8078746989:AAH2hQv-27wkds_rV0qWJ8xsETnorQzGsT4'
