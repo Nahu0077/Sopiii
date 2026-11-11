@@ -11,7 +11,7 @@ from urllib.parse import urlparse
 # Config
 API_ID = 21124241
 API_HASH = "b7ddce3d3683f54be788fddae73fa468"
-BOT_TOKEN = "PUT_YOUR_TOKEN_HERE"  # your bot token from @BotFather
+BOT_TOKEN = "8078746989:AAH2hQv-27wkds_rV0qWJ8xsETnorQzGsT4"  # your bot token from @BotFather
 ADMIN_ID = [7603003996] # Replace with your Admin ID(s)
 GROUP_ID = -1004305447869 # Replace with your Group ID
 
